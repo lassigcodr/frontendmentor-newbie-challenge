@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Click here](https://github.com/ctrlwisdom/frontendmentor-qr-code-newbie-challenge.git)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/qr-code-component-main/index.html)
 
 ## Author
 
