@@ -111,8 +111,10 @@ embed {
 }
 
 @media (max-width: 600px) {
+    body {
+        padding: auto;
+    }
     .wrapper {
-        margin: 20px 0;
         width: 300px;
         flex-direction: column;
     }
@@ -127,7 +129,7 @@ embed {
 .attribution { 
     font-size: 11px; 
     text-align: center; 
-    position: fixed; 
+    position: absolute; 
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
