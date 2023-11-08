@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here]()
+- Solution URL: [Click here](https://github.com/ctrlwisdom/frontendmentor-newbie-challenge/tree/main/product-preview-card-component-main)
 - Live Site URL: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/product-preview-card-component-main/index.html)
 
 ## My process
