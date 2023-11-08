@@ -116,8 +116,6 @@ embed {
         padding: auto;
     }
     .wrapper {
-        margin-top: 10%;
-        height: 100%;
         width: 300px;
         flex-direction: column;
     }
