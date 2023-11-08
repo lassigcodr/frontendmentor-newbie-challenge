@@ -19,13 +19,6 @@ Users should be able to:
 For responsive images I wrap the img tag in a picture tag, included source tag with srcset attribute and added media attribute to make it know when to switch 
 Also used flex for the layout
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
 ## Author
 
 - Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/ctrlwisdom)
