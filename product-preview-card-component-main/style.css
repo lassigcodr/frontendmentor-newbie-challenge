@@ -112,7 +112,7 @@ embed {
 
 @media (max-width: 600px) {
     .wrapper {
-        width: 350px;
+        width: 300px;
         flex-direction: column;
     }
     .product-image picture img {
