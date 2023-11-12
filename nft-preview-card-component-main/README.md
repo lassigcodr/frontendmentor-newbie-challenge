@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/ctrlwisdom/frontendmentor-newbie-challenge/tree/main/nft-preview-card-component-main)
+- Live Site URL: [Click here]()https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/nft-preview-card-component-main/index.html
 
 ## Author
 
