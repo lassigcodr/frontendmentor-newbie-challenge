@@ -95,6 +95,10 @@ embed {
     float: left;
 }
 
+.time embed {
+    margin-top: 1.5px;
+}
+
 .value span {
     color: var(--clr-accent);
     font-weight: 300;
