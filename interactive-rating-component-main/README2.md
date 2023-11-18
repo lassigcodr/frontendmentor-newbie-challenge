@@ -14,7 +14,8 @@ Users should be able to:
 
 ### Links
 
-[View solution here](https://your-solution-url.com) [Live site](https://your-live-site-url.com)
+[View solution here](https://github.com/ctrlwisdom/frontendmentor-newbie-challenge/tree/main/interactive-rating-component-main) 
+[Live site](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/interactive-rating-component-main/index.html)
 
 
 
