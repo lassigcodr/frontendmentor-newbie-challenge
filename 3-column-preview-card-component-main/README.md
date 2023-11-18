@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- [View solution here](https://your-solution-url.com)
-- [View live site](https://your-live-site-url.com)
+- [View solution here](https://github.com/ctrlwisdom/frontendmentor-newbie-challenge/tree/main/3-column-preview-card-component-main)
+- [View live site](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/3-column-preview-card-component-main/index.html)
 
 
 
