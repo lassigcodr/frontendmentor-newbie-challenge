@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [Click here](https://github.com/ctrlwisdom/frontendmentor-newbie-challenge/tree/main/stats-preview-card-component-main)
+- Live Site: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/stats-preview-card-component-main/index.html)
 
 ## My process
 
