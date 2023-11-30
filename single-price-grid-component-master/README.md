@@ -5,8 +5,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/single-price-grid-component-master/index.html)
 
 ### Built with
 
