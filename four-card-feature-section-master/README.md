@@ -4,8 +4,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/four-card-feature-section-master/index.html)
 
 
 ### Built with
