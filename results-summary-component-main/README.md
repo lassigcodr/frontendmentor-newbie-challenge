@@ -4,7 +4,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Live Site: [Click here](https://your-live-site-url.com)
+- Live Site: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/results-summary-component-main/index.html)
 
 ### Built with
 
